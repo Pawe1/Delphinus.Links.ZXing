@@ -1,0 +1,18 @@
+{
+   "id":"{40D2A4D5-2EB5-49FC-8190-CBE3D51D14DA}",
+   "name":"ZXing Barcode Scanning Library",
+   "picture":"zxing-logo.png",
+   "license_type":"Apache 2.0",
+   "license_file":"LICENSE",
+   "platforms":"Win32;Win64;OSX32;Android;IOSDevice32;IOSDevice64",
+   "package_compiler_min":28,
+   "package_compiler_max":32,
+   "compiler_min":28,
+   "compiler_max":32,
+   "first_version":"3.4.1",
+   "repository":{
+      "type":"Github",
+      "user":"Spelt",
+      "name":"ZXing.Delphi"
+   }
+}
